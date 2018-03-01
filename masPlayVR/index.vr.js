@@ -11,7 +11,7 @@ export default class masPlayVR extends React.Component {
   render() {
     return (
       <View>
-        <Pano source={asset('cuerpos1.jpg')}/>
+        <Pano source={asset('freaky1.jpg')}/>
       </View>
     );
   }
