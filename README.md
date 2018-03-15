@@ -1,6 +1,7 @@
 # VR interactive demos for +Play
 
-* [Cuerpos de agua](https://hospitable-attraction.surge.sh)
+* [Cuerpos de agua 1](https://wry-friend.surge.sh)
+* [Cuerpos de agua 2](https://two-liquid.surge.sh)
 * [El Freaky ft. Mr Lexx & Cybertronics](https://damp-hot.surge.sh)
 * [Moto Z | Plano Z 1](https://warm-flock.surge.sh)
 * [Moto Z | Plano Z 2](https://complex-pets.surge.sh)
