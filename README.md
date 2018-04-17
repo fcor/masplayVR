@@ -3,7 +3,7 @@
 * [Cuerpos de agua 1](https://wry-friend.surge.sh)
 * [Cuerpos de agua 2](https://two-liquid.surge.sh)
 * [El Freaky ft. Mr Lexx & Cybertronics 1](https://damp-hot.surge.sh)
-* [El Freaky ft. Mr Lexx & Cybertronics 1](https://stiff-judge.surge.sh)
+* [El Freaky ft. Mr Lexx & Cybertronics 2](https://stiff-judge.surge.sh)
 * [Moto Z | Plano Z 1](https://warm-flock.surge.sh)
 * [Moto Z | Plano Z 2](https://complex-pets.surge.sh)
 * [Moto Z | Plano Z 3](https://tremendous-teeth.surge.sh)
